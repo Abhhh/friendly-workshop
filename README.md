@@ -7,6 +7,7 @@ Name: Brijesh Dobariya
 Name: Uday Chovatiya
 Name: Rushi Oza
 Name: Himanshu Bhavsar
+Name: abhishek patel
 Name: Yax
 Name: Yash Shah
 Name: Raj Patel
